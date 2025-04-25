@@ -2,7 +2,7 @@
 
 Welcome to **WebMind Agents** — a collection of intelligent browser automation agents inspired by the **"Building AI Browser Agents"** course by [DeepLearning.AI](https://www.deeplearning.ai/) in collaboration with **AGI Inc**. These projects explore how AI agents can interact with the web autonomously, make decisions, and plan actions intelligently.
 
-Developed under the guidance of **Div Garg**, **Naman Garg**, and **Andrew Ng**, this repo showcases three progressively advanced browser agents with real code examples and planning logic.
+Developed under the guidance of **Div Garg** and **Naman Garg**, this repo showcases three progressively advanced browser agents with real code examples and planning logic.
 
 ---
 
