@@ -71,5 +71,5 @@ Please feel free to fork, use, and improve upon it. Kindly provide attribution i
 If this repo inspires your work or you build something cool using these foundations — I’d love to hear about it!
 
 Let’s create intelligent agents that truly understand and navigate the web. 🌍💻
-'''
+
 
