@@ -37,3 +37,48 @@ webmind-agents/
 ├── Building_an_Autonomous_Web_Agents.ipynb
 ├── MCTS_and_AgentQ.ipynb
 └── README.md
+
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+You'll need Python installed, and optionally:
+- Jupyter Notebook or Google Colab
+- Browser automation tools like `selenium`, `playwright`, or simulated environments
+
+### 📥 Clone and Open
+```bash
+git clone https://github.com/yourusername/webmind-agents.git
+cd webmind-agents
+
+## 🎓 Course Reference
+
+- 🔗 [Building AI Browser Agents – DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
+- 🤝 In collaboration with [AGI Inc](https://www.theagi.company/)
+- 👨‍🏫 Instructors: Div Garg, Naman Garg, and Andrew Ng
+
+---
+
+## 💡 Future Extensions
+
+- Add LLM integration for natural language instructions.
+- Build agents for real-world workflows like web research and form submissions.
+- Create persistent memory modules to retain session knowledge.
+- Connect with APIs to perform live data-driven tasks.
+
+---
+
+## 🛠️ License
+
+This repository is shared for learning, research, and educational purposes.  
+Please feel free to fork, use, and improve upon it. Kindly provide attribution if you use it publicly. ⭐
+
+---
+
+## 🌐 Connect
+
+If this repo inspires your work or you build something cool using these foundations — I’d love to hear about it!
+
+Let’s create intelligent agents that truly understand and navigate the web. 🌍💻
+
+
