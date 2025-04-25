@@ -39,16 +39,14 @@ webmind-agents/
 ├── MCTS_and_AgentQ.ipynb
 └── README.md
 
-'''
-markdown
+'''markdown
 ## 🎓 Course Reference
 
 - 🔗 [Building AI Browser Agents – DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 - 🤝 In collaboration with [AGI Inc](https://www.agi.com/)
 - 👨‍🏫 Instructors: Div Garg, Naman Garg, and Andrew Ng
 
----
-
+```
 ## 💡 Future Extensions
 
 - Add LLM integration for natural language instructions.
@@ -70,6 +68,4 @@ Please feel free to fork, use, and improve upon it. Kindly provide attribution i
 If this repo inspires your work or you build something cool using these foundations — I’d love to hear about it!
 
 Let’s create intelligent agents that truly understand and navigate the web. 🌍💻
-
-
 
