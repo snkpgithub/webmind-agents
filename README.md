@@ -1,8 +1,15 @@
 # 🤖 WebMind Agents
 
-Welcome to **WebMind Agents** — a collection of intelligent browser automation agents inspired by the **"Building AI Browser Agents"** course by [DeepLearning.AI](https://www.deeplearning.ai/) in collaboration with **AGI Inc**. These projects explore how AI agents can interact with the web autonomously, make decisions, and plan actions intelligently.
+Welcome to **WebMind Agents** — a collection of intelligent, autonomous browser automation agents designed to showcase the future of AI-driven web interaction. This project is inspired by the **"Building AI Browser Agents"** short course by [DeepLearning.AI](https://www.deeplearning.ai/) in collaboration with **[AGI Inc](https://www.theagi.company/)**.
 
-Developed under the guidance of **Div Garg** and **Naman Garg**, this repo showcases three progressively advanced browser agents with real code examples and planning logic.
+Through this repository, you'll explore how modern agents can:
+- **Perceive** and interpret dynamic web environments,
+- **Plan** actions using decision-making algorithms like **Monte Carlo Tree Search (MCTS)**,
+- And **act autonomously** across websites to complete complex tasks — much like a human.
+
+This hands-on implementation was developed under the guidance of leading minds in the AI agent space: **Div Garg**, **Naman Garg**, and **Andrew Ng**. Each notebook demonstrates progressively advanced capabilities — from basic automation to real-time reasoning and forward planning.
+
+Whether you're an AI practitioner, developer, or researcher, this project will give you insights into building browser-native AI agents capable of intelligent decision-making. It’s also a great foundation to explore how LLMs, planning algorithms, and interaction models can be integrated into real-world use cases like web automation, research bots, and intelligent task assistants.
 
 ---
 
