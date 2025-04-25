@@ -5,6 +5,7 @@ Welcome to **WebMind Agents** — a collection of intelligent, autonomous browse
 Through this repository, you'll explore how modern agents can:
 - **Perceive** and interpret dynamic web environments,
 - **Plan** actions using decision-making algorithms like **Monte Carlo Tree Search (MCTS)**,
+  ![MCTS Algorithm](https://github.com/snkpgithub/webmind-agents/blob/main/Monte_Carlo_Algorithm.gif?raw=true)
 - And **act autonomously** across websites to complete complex tasks — much like a human.
 
 This hands-on implementation was developed under the guidance of leading minds in the AI agent space: **Div Garg**, **Naman Garg**, and **Andrew Ng**. Each notebook demonstrates progressively advanced capabilities — from basic automation to real-time reasoning and forward planning.
