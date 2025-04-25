@@ -88,7 +88,7 @@ You'll need Python installed, and optionally:
 
 ### 📥 Clone and Open
 ```bash
-git clone https://github.com/yourusername/webmind-agents.git
+git clone https://github.com/snkpgithub/webmind-agents.git
 cd webmind-agents
 
 
