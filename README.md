@@ -27,6 +27,7 @@ Developed under the guidance of **Div Garg** and **Naman Garg**, this repo showc
 - Real-world LLM + tool use simulation
 
 
+
 ---
 
 ## 📂 File Structure
@@ -38,7 +39,6 @@ webmind-agents/
 ├── Building_an_Autonomous_Web_Agents.ipynb
 ├── MCTS_and_AgentQ.ipynb
 └── README.md
-
 
 
 
@@ -71,5 +71,17 @@ Please feel free to fork, use, and improve upon it. Kindly provide attribution i
 If this repo inspires your work or you build something cool using these foundations — I’d love to hear about it!
 
 Let’s create intelligent agents that truly understand and navigate the web. 🌍💻
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+You'll need Python installed, and optionally:
+- Jupyter Notebook or Google Colab
+- Browser automation tools like `selenium`, `playwright`, or simulated environments
+
+### 📥 Clone and Open
+```bash
+git clone https://github.com/yourusername/webmind-agents.git
+cd webmind-agents
+
 
 
