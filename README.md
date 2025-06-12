@@ -1,6 +1,6 @@
 # 🤖 WebMind Agents
 
-Welcome to **WebMind Agents** — a collection of intelligent, autonomous browser automation agents designed to showcase the future of AI-driven web interaction. This project is inspired by the **"Building AI Browser Agents"** short course by [DeepLearning.AI](https://www.deeplearning.ai/) in collaboration with **[AGI Inc](https://www.theagi.company/)**.
+Welcome to **WebMind Agents** — a collection of intelligent, autonomous browser automation agents designed to showcase the future of AI-driven web interaction. This project is inspired by the **"Building AI Browser Agents"** short project with the help of [DeepLearning.AI](https://www.deeplearning.ai/) in collaboration with **[AGI Inc](https://www.theagi.company/)**.
 
 Through this repository, you'll explore how modern agents can:
 - **Perceive** and interpret dynamic web environments,
